@@ -1,0 +1,14 @@
+{
+  "name": "hello_world_app",
+  "version": "1.0.0",
+  "description": "Microsoft Bot framework Hello world App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anjum.com sample app",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.8.3"
+  }
+}
